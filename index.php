@@ -74,8 +74,8 @@
     <ul>	 
         <?php
         $servername = "localhost";
-        $username = "bertan";
-        $password = "print13";
+        $username = "root";
+        $password = "tcc123";
         $dbname = "usuarios";
 
         // Cria a conexão
